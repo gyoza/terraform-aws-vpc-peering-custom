@@ -1,5 +1,7 @@
 forked from https://github.com/grem11n/terraform-aws-vpc-peering
 
+support for 0.12
+
 ## INPUTS
 
 __designed for terragrunt__
